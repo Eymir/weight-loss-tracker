@@ -1,0 +1,1 @@
+Includes graphs, multiple user support, many ajax features for tracking weight loss over a period of weeks.  Works great for groups of people in weight loss pools.  Uses ZedGraph for graphs, AJAX.net Pro for ajax communication, and YUI for some nice javascript ui effects.
